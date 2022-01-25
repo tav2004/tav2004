@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @crosseyedfool
+- 👋 Hi, I’m Tavish Mishra, @tav2004
 - 👀 I’m interested in machine learning and quantum computing
 - 🌱 I’m currently studying CS at UC Berkeley
 
